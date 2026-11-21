@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512">
+  <title>ModuPack, petit logo</title>
+  <path d="M50 8 L90 30 L90 72 L50 94 L10 72 L10 30 Z" fill="#D4962F"/>
+    <path d="M10 30 L50 52 L90 30 M50 52 L50 94" fill="none" stroke="#FFFFFF" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M10 52 L50 74 L90 52" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-dasharray="5 4"/>
+</svg>
